@@ -1,4 +1,3 @@
-# HelloWorld
 Starting GIS Programming class with an introductory lab
 
 # Hello World Webpage Project Hello! 
